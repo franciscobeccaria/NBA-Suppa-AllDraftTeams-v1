@@ -6,6 +6,7 @@ Ahora si quiero agregar más quintetos, copio el div principal y lo unico que te
 La idea era que el link del All-Draft Team te lleve a una pagina solo de ese team, pero eso lo dejaremos para mas adelante. 
 Sigue sin ser muy bueno en responsive design, pero bueno, estoy recien arrancando
 
+Link: https://gracious-pike-105bc8.netlify.app/
 
 Important links:
 
